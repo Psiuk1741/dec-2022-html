@@ -1,0 +1,24 @@
+img {
+    width: 300px;
+}
+h1 {
+    text-align: center;
+    background: bisque;
+    color: blue;
+}
+
+h2{
+    background: cadetblue;
+    color: darkslategray;
+}
+
+p {
+    font-size: 24px;
+    background: black;
+    color: hotpink;
+}
+
+ul{
+    background: #294c03;
+    color: coral;
+}
