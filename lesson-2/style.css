@@ -1,0 +1,38 @@
+body, html{
+    margin: 0;
+}
+
+.for-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 10px;
+}
+
+.widgets {
+    background: lightblue;
+    height: 250px;
+    width: 98%;
+
+}
+
+.array{
+    display: flex;
+    width: 99%;
+    margin: 3px;
+}
+
+.big{
+    height: 250px;
+    background: blue;
+    width: 33%;
+
+}
+
+.contact{
+    background: lightblue;
+    height: 500px;
+    width: 98%;
+
+}
