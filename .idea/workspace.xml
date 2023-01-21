@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8bc0597-b37f-4deb-81dc-8bb3c2f7333f" name="Changes" comment="Added 2 files: first-task.html and style.css">
-      <change afterPath="$PROJECT_DIR$/lesson-2/second-task.html" afterDir="false" />
+    <list default="true" id="a8bc0597-b37f-4deb-81dc-8bb3c2f7333f" name="Changes" comment="Rename and added file">
+      <change afterPath="$PROJECT_DIR$/lesson-2/second-task.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-2/first-task.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/first-task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/fisrt-task.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/fisrt-task.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/fisrt-task.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/second-task.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/second-task.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,27 +34,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\НАВЧАННЯ\dec-2022-html" />
@@ -68,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1674037469513</updated>
       <workItem from="1674037470474" duration="1861000" />
-      <workItem from="1674219703439" duration="2890000" />
+      <workItem from="1674219703439" duration="3832000" />
+      <workItem from="1674230988148" duration="233000" />
+      <workItem from="1674302532880" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html, style.css and changed this file`s">
       <created>1674038798485</created>
@@ -84,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674222357361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Rename and added file">
+      <created>1674222685728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674222685728</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added index.html, style.css and changed this file`s" />
     <MESSAGE value="Added 2 files: first-task.html and style.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 2 files: first-task.html and style.css" />
+    <MESSAGE value="Rename and added file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename and added file" />
   </component>
 </project>
