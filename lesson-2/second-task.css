@@ -1,0 +1,22 @@
+.block{
+    border-style: solid ;
+    border-width: 1px;
+    height: 350px;
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    margin: 7% auto;
+    display: block;
+}
+
+.wrap{
+    display: flex;
+    justify-content: center;
+}

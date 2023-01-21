@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8bc0597-b37f-4deb-81dc-8bb3c2f7333f" name="Changes" comment="Rename and added file">
-      <change afterPath="$PROJECT_DIR$/lesson-2/second-task.css" afterDir="false" />
+    <list default="true" id="a8bc0597-b37f-4deb-81dc-8bb3c2f7333f" name="Changes" comment="Fixed some bugs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-2/first-task.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/first-task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-2/fisrt-task.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/fisrt-task.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-2/second-task.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/second-task.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson-2/second-task.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-2/second-task.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1674037470474" duration="1861000" />
       <workItem from="1674219703439" duration="3832000" />
       <workItem from="1674230988148" duration="233000" />
-      <workItem from="1674302532880" duration="465000" />
+      <workItem from="1674302532880" duration="3233000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html, style.css and changed this file`s">
       <created>1674038798485</created>
@@ -95,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674222685728</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed some bugs">
+      <created>1674303039875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674303039875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +121,7 @@
     <MESSAGE value="Added index.html, style.css and changed this file`s" />
     <MESSAGE value="Added 2 files: first-task.html and style.css" />
     <MESSAGE value="Rename and added file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename and added file" />
+    <MESSAGE value="Fixed some bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some bugs" />
   </component>
 </project>
