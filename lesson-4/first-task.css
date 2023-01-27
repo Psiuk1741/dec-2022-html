@@ -1,0 +1,50 @@
+.father{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.block{
+    width: 100px;
+    height: 250px;
+
+}
+
+.block:nth-child(1){
+    width: 100%;
+    background: violet;
+}
+
+.block:nth-child(2){
+    width: 70%;
+    height: 500px;
+    background: blue;
+}
+
+.block:nth-child(3){
+    width: 30%;
+    height: 500px;
+    background: green;
+}
+
+@media screen and (min-width:0) and (max-width: 575px) {
+
+    .block:nth-child(1){
+        width: 100%;
+        height: 200px;
+        background: yellow;
+    }
+
+    .block:nth-child(2){
+        width: 100%;
+        height: 400px;
+        background: brown;
+    }
+
+    .block:nth-child(3){
+        width: 100%;
+        height: 200px;
+        background: #43a927;
+    }
+
+}

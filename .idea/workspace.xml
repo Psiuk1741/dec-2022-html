@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8bc0597-b37f-4deb-81dc-8bb3c2f7333f" name="Changes" comment="Changed second-task.css and second-task.html">
-      <change afterPath="$PROJECT_DIR$/lesson-3/first-task.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/first-task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/second-task.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/second-task.html" afterDir="false" />
+    <list default="true" id="a8bc0597-b37f-4deb-81dc-8bb3c2f7333f" name="Changes" comment="Done hw3">
+      <change afterPath="$PROJECT_DIR$/lesson-4/first-task.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/first-task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/second-task.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/second-task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KUmKErbuhQje7qEYQr8QuWwMeY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,28 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\НАВЧАННЯ\dec-2022-html" />
@@ -76,7 +80,8 @@
       <workItem from="1674230988148" duration="233000" />
       <workItem from="1674302532880" duration="3541000" />
       <workItem from="1674497610590" duration="21000" />
-      <workItem from="1674635495844" duration="3699000" />
+      <workItem from="1674635495844" duration="3999000" />
+      <workItem from="1674810253814" duration="3073000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html, style.css and changed this file`s">
       <created>1674038798485</created>
@@ -113,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674311947424</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done hw3">
+      <created>1674639629519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674639629519</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +148,7 @@
     <MESSAGE value="Rename and added file" />
     <MESSAGE value="Fixed some bugs" />
     <MESSAGE value="Changed second-task.css and second-task.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed second-task.css and second-task.html" />
+    <MESSAGE value="Done hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done hw3" />
   </component>
 </project>
